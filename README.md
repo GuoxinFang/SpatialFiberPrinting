@@ -7,7 +7,7 @@ We explore a spatial printing method to fabricate continuous fiber-reinforced th
 
 ## Usage of the dataset
 
-Each folder (with model name) contains waypoint sets (fiber toolpath) and mesh sets (matrix material layer). The format of the toolpath waypoint is [x, y, z, nx, ny, nz] + [user defined parameters].
+Each folder with model name contains two sub-folders: 1) matrixlayer - represents for layer printed with matrix material layer; 2) toolpath - contains waypoints for continuous fiber. The format of the toolpath waypoint is [x, y, z, nx, ny, nz] + [user defined parameters].
 
 You could visualize the toolpath and curved layer using MeshLab software.
 
