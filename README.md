@@ -1,6 +1,8 @@
 # Spatial Fiber Printing
 [Project Page](https://guoxinfang.github.io/SpatialFiberPrinting)
 
+![](teaser.jpg)
+
 ## Abstract
 This dataset accompanies the technical paper "Exceptional Mechanical Performance by Spatial Printing with Continuous Fiber" by Guoxin Fang, Tianyu Zhang, Yuming Huang, Zhizhou Zhang, Kunal Masania, and Charlie C.L. Wang.
 
