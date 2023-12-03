@@ -1,7 +1,9 @@
 # Spatial Fiber Printing - [project page](https://guoxinfang.github.io/SpatialFiberPrinting)
 
 ## Abstract
-This work explores a spatial printing method to fabricate continuous fiber-reinforced thermoplastic composites (CFRTPCs), which can achieve exceptional mechanical performance. For models giving complex 3D stress distribution under loads, typical planar-layer-based fiber placement usually fails to provide sufficient reinforcement due to their orientations being constrained to planes. The effectiveness of fiber reinforcement could be maximized by using multi-axis additive manufacturing (MAAM) to better control the orientation of continuous fibers in 3D-printed composites.
+This is the data set for technical paper "Exceptional Mechanical Performance by Spatial Printing with Continuous Fiber" by Guoxin Fang, Tianyu Zhang, Yuming Huang, Zhizhou Zhang, Kunal Masania, Charlie C.L. Wang.
+
+We explore a spatial printing method to fabricate continuous fiber-reinforced thermoplastic composites (CFRTPCs), which can achieve exceptional mechanical performance. We propose a computational approach to generate 3D toolpaths that satisfy two major reinforcement objectives: 1) following the maximal stress directions in critical regions and 2) connecting multiple load-bearing regions by continuous fibers.
 
 ## Usage of the dataset
 
